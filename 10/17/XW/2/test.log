@@ -1,0 +1,10 @@
+2019/10/17 00:00:12 - Test Created
+2019/10/17 00:01:24 - Starting test (initiated by tester csd002.taboolasyndication.com-10.101.32.107)
+2019/10/17 00:01:56 - Test Run Complete. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/17 00:01:56 - Extracting 61919 byte uploaded file '/tmp/php7wuWR5' to './results/19/10/17/XW/2'
+2019/10/17 00:01:57 - Done Processing. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/10/17 00:02:44 - Test Run Complete. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107, Test Run Error: "Browser crashed."
+2019/10/17 00:02:44 - Extracting 118538 byte uploaded file '/tmp/phpDVLIAV' to './results/19/10/17/XW/2'
+2019/10/17 00:02:44 - Done Processing. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107, Test Run Error: "Browser crashed."
+2019/10/17 00:02:44 - Test Complete
+2019/10/17 00:02:44 - Test post-processing complete
